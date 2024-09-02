@@ -13,6 +13,14 @@ This project involves designing a real-time machine learning , Deep learning sys
    - Sagemaker
 3. Apache Kafka (distributed streaming tool)
 
+## Dataset Used
+Traffic Crashes Record Data
+Crash data shows information about each traffic crash on city streets within the City of Chicago limits.
+This crash data includes many parameters like  street condition data, weather condition, and posted speed limits based on best available information at the time.
+
+Original Data Source - https://catalog.data.gov/dataset/traffic-crashes-crashes
+Dataset used in the project.
+
 ## Workflow and Implementation Details
 
 ### Model Development
