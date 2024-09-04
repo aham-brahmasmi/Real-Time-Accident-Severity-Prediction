@@ -1,3 +1,4 @@
+# This file is uploaded on Jupyter notebok of AWS Sagemaker
 import boto3
 import pickle
 import sagemaker
